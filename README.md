@@ -8,4 +8,4 @@ Web:http://cornfieldnews.web.engr.illinois.edu/ A News website, include basic re
 Input keyword and get sentimental anaylsis report：
 http://cornfieldnews.web.engr.illinois.edu/sentiment/sentiment_news.php
 
-![Alt text](WebDevelopment/img/img_1.jpeg?raw=true "Title")
+![alt text](https://raw.githubusercontent.com/catphone110/WebDevelopment/master/img/img_1.jpeg)
