@@ -1,14 +1,11 @@
 # WebDevelopment
 
 This is a database management project.  
-Web:http://cornfieldnews.web.engr.illinois.edu/
+Web:http://cornfieldnews.web.engr.illinois.edu/ A News website, include basic recommend system (using sql), and sentiment analysis on inout key word
 
-## Sentimental Analysis fun part:
+## Sentimental Analysis Fun Part:
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Input keyword and get sentimental anaylsis report：
+http://cornfieldnews.web.engr.illinois.edu/sentiment/sentiment_news.php
 
-
-
-```
-Give examples
-```
+![Alt text](WebDevelopment/img/img_1.jpeg?raw=true "Title")
