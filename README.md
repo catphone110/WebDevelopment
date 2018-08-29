@@ -2,6 +2,8 @@
 
 This is a database management project.  
 Web:http://cornfieldnews.web.engr.illinois.edu/ A News website, include basic recommend system (using sql), and sentiment analysis on inout key word
+## Video Demo
+https://www.youtube.com/watch?v=bfk4B-9J2lA&feature=youtu.be
 
 ## Sentimental Analysis Fun Part:
 
